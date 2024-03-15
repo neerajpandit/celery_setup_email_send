@@ -151,7 +151,7 @@ EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_USE_SSL = True
 EMAIL_HOST_USER = 'pandeyakhil1507@gmail.com'
-EMAIL_HOST_PASSWORD = 'cqyugwhrtnklstgo'
+EMAIL_HOST_PASSWORD = 'cqyugwhrtnklstjhjflase'
 DEFAULT_FROM_EMAIL= 'celery <pandeyakhil1507@gmail.com>'
 
-#cqyugwhrtnklstgo
+hostp#cqyugwhrtnklstgo
